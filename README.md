@@ -1,6 +1,4 @@
-# WritingSamples
-
-12/30- Updated to include up to date resume as pdf
+## WritingSamples ##
 
 Contained in this directory is a research proposal for using NHL player interviews to predict statistical output using a regression model. Data for this experiment is proving to be thin, without the utilization of voice to text technology, however a similar experiment using tweets is underway at - https://github.com/tsbrowning/NHLSentimentRegression
 
